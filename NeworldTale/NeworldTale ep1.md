@@ -96,4 +96,4 @@ A jornada inicia-se com a queda entre flores azuis. Uma tela **holográfica** pe
 </center>
 O mundo estava em transição. A criança caída era a origem de um novo caminho em nossas ligações, mesmo em tempos de paz.
 
-[[NeworldTale ep2]]
+[NeworldTale ep2](https://github.com/Masumikun/NeworldTale/blob/main/NeworldTale/NeworldTale%20ep2.md)

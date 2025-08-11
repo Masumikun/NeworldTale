@@ -48,14 +48,14 @@ Ao despertar, sua alma era de <span style="color:rgb(192, 192, 192)">apatia</spa
 - 📜 ***Narrador***
 Decidido a trilhar caminhos mortais, o humano lutava pela sobrevivência. Seu maior obstáculo: o robô substituto, **Mettaton EX**
 
-![[Mettaton_EX_battle.gif]]
+[Mettaton_EX](Mettaton_EX_battle.gif)
 Mettaton EX  ➣ ❝Com a audiência em mente, teremos um espetáculo de dança!❞ *Elegância robótica*
 Humano (Void-X56)  ➣ ❝Odeio monstros. Acabarei contigo rapidamente!❞ *Ira contida*
 Mettaton EX  ➣ ❝Prepara-te para o show!❞ *Entusiasmo metálico*
 
 O ataque precipitado ativou o modo NEO:
 
-![[Mettaton_NEO_battle.gif]]
+[Mettaton_NEO](Mettaton_NEO_battle.gif)
 Mettaton NEO  ➣ ❝Parece que teremos um duelo digno de palco!❞ *Confiante*
 Humano (Void-X56)  ➣ ❝Desaparece de uma vez!❞ *Ódio cru*
 
@@ -66,7 +66,7 @@ Na névoa de poeira e fumaça, era impossível discernir quem enfrentava o inimi
 
 Quando a poeira baixou, revelou-se uma figura semelhante a **Toriel** - mas de uma era remota, quando **Frisk** era o primeiro humano?
 
-![[Toriel_NT.jpg]]
+[NT!Toriel](Toriel_NT.jpg)
 NT!Toriel  ➣ ❝Criança... tão impregnada de maldade... o rei tinha razão sobre sua espécie...❞ *Voz calma com fúria subterrânea*
 Humano (Void-X56) ➣ ❝Outro monstro para atrapalhar-me!❞ *Queixa irada*
 NT!Toriel ➣ ❝Ninguém te ensinou respeito, criatura maldosa?❞ *Ira contida*
@@ -107,6 +107,6 @@ Depois de passar por **Toriel**, **Undyne** travou uma luta, mas eles correram e
 - Terra dos humanos
 
 
-[[NeworldTale ep2]]
+[NeworldTale ep2]()
 
-[[NeworldTale ep4]]
+[NeworldTale ep4]()
