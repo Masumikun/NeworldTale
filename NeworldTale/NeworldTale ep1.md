@@ -1,8 +1,9 @@
 ---
 date created: Tuesday, 22nd ✦ Jul┆2025 ➣ 23▫58▫58 
-date modified: Friday, 8th ✦ Aug┆2025 ➣ 00▫21▫50 
+date modified: Wednesday, 13th ✦ Aug┆2025 ➣ 06▫43▫09 
 tags:
   - NeworldTale
+status: ✅ Completo
 ---
 
 # NeworldTale
@@ -96,4 +97,4 @@ A jornada inicia-se com a queda entre flores azuis. Uma tela **holográfica** pe
 </center>
 O mundo estava em transição. A criança caída era a origem de um novo caminho em nossas ligações, mesmo em tempos de paz.
 
-[NeworldTale ep2](https://github.com/Masumikun/NeworldTale/blob/main/NeworldTale/NeworldTale%20ep2.md)
+[[NeworldTale ep2]]

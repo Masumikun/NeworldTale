@@ -1,6 +1,11 @@
 ---
 date created: Tuesday, 5th ✦ Aug┆2025 ➣ 02▫40▫54 
-date modified: Wednesday, 6th ✦ Aug┆2025 ➣ 05▫17▫22 
+date modified: Wednesday, 13th ✦ Aug┆2025 ➣ 06▫49▫10 
+tags:
+  - NeworldTale
+  - Writing
+  - Studying
+status: ⚙️ Desenvolvimento
 ---
 # ==Ficha de Personagem==
 **Nome**: 

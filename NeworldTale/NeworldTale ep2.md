@@ -1,8 +1,9 @@
 ---
 date created: Tuesday, 22nd ✦ Jul┆2025 ➣ 23▫59▫06 
-date modified: Thursday, 7th ✦ Aug┆2025 ➣ 16▫53▫50 
+date modified: Wednesday, 13th ✦ Aug┆2025 ➣ 06▫34▫18 
 tags:
   - NeworldTale
+status: 📄 Rascunho
 ---
 
 # Vazio do Cego
@@ -22,7 +23,7 @@ Sans ➣ ❝Por que nos observa?❞ *Pergunta, desconfiado*
 ??? ➣ ❝Apenas registro as ações de cada um❞ *Responde com confiança*
 
 Apesar do incômodo, **Sans** aceitou. Com o tempo, humanos que morriam e caíam no novo subsolo - agora habitado por monstros - transformaram o local em caos por ação de almas <span style="color: rgb(192,192,192)">Void</span>. O ar encheu-se de poeira até que o robô foi derrotado.
-[Mecanismo da Alma]()
+[[Mecanismo da Alma]]
 
 ---
 ## Novos Trilhos
@@ -118,6 +119,6 @@ Humano (Void-X56)  ➣ ❝Act 2?❞
 ???  ➣ ❝Eliminação de projetos... alteração de dados❞ *Voz glitchada*
 Humano (Void-X56)  ➣ ❝O que fará? É apenas um monstro inútil ante meu poder!❞ *Arrogância triunfante*
 
-[NeworldTale ep1](https://github.com/Masumikun/NeworldTale/blob/main/NeworldTale/NeworldTale%20ep1.md)
+[[NeworldTale ep1]]
 
-[NeworldTale ep3](https://github.com/Masumikun/NeworldTale/blob/main/NeworldTale/NeworldTale%20ep3.md)
+[[NeworldTale ep3]]

@@ -1,6 +1,9 @@
 ---
 date created: Friday, 1st ✦ Aug┆2025 ➣ 15▫46▫36 
-date modified: Friday, 8th ✦ Aug┆2025 ➣ 14▫52▫06 
+date modified: Wednesday, 13th ✦ Aug┆2025 ➣ 06▫34▫14 
+tags:
+  - NeworldTale
+status: 📝 Incompleto
 ---
 # Perdas & Guerras
 ## Medo agoniante

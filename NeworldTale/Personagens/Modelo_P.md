@@ -1,6 +1,11 @@
 ---
 date created: Sunday, 3rd ✦ Aug┆2025 ➣ 19▫31▫37 
-date modified: Monday, 4th ✦ Aug┆2025 ➣ 23▫33▫14 
+date modified: Wednesday, 13th ✦ Aug┆2025 ➣ 06▫42▫36 
+tags:
+  - Others
+  - NeworldTale
+  - Undertale
+status: ⚙️ Desenvolvimento
 ---
 **Espécie**: 
 **Idade**: 
