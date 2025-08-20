@@ -14,10 +14,11 @@ status: ✅ Completo
 > ⚠️ Aviso
 
 ```
-Esta história possui personagens não originais criados por outros autores, mas também inclui personagens de minha autoria. Peço que lembre que Toby Fox, criador de Undertale, sabe do meu orgulho por seu trabalho.
+  Esta história possui personagens não originais criados por outros autores, mas também inclui personagens de minha autoria. Peço que lembre que Toby Fox, criador de Undertale, sabe do meu orgulho por seu trabalho.
 
-Embora contenha personagens originais, esta é uma linha alternativa concebida por mim.
+  Embora contenha personagens originais, esta é uma linha alternativa concebida por mim.
 ```
+
 ## Humanos & Monstros
 Há muito tempo, humanos e monstros travaram uma guerra ancestral que selou os vestígios dessa raça diferente nas profundezas daquele lugar.
 
